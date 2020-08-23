@@ -1,0 +1,6 @@
+*.png
+*.mp3
+
+auth.json
+node_modules
+sounds
