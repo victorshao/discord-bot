@@ -1,1 +1,2 @@
-!cry  !dui  !lakad  !lebel  !owen  !oy  !p2w  !party  !rekt  !wow
+Commands:
+!help !ping !stats
